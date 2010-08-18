@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "skinny_daemon_example"
     gem.summary = "This is the skinny daemon tutorial example from HeadLabs!"
-    gem.description = "This is the skinny daemon tutorial example from HeadLabs!"
+    gem.description = "This creates a simple gem based on the skinny daemon example!"
     gem.email = "claysrg@gmail.com"
     gem.homepage = "http://github.com/claysrg/skinny_daemon_example"
     gem.authors = ["Clayton Rocker"]
